@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Signetic.ly</h1>
+        <h1>E_signify</h1>
         <h4><em>Your's Digital Singnature Generator</em></h4>
 
         <DigitalSignature />
